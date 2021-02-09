@@ -1,3 +1,0 @@
-User-agent: *
-
-Sitemap: http://www.amritsatpathy.tk/sitemap.xml
